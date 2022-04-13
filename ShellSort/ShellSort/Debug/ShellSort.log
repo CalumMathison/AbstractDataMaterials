@@ -1,0 +1,3 @@
+﻿  ShellSort.cpp
+C:\Users\Calum\Documents\College Stuff\2020-2021\Data Structures\ShellSort\ShellSort\ShellSort.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ShellSort.vcxproj -> C:\Users\Calum\Documents\College Stuff\2020-2021\Data Structures\ShellSort\Debug\ShellSort.exe
