@@ -1,0 +1,13 @@
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\bin\Debug\netcoreapp3.1\OrderedList.exe
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\bin\Debug\netcoreapp3.1\OrderedList.deps.json
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\bin\Debug\netcoreapp3.1\OrderedList.runtimeconfig.json
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\bin\Debug\netcoreapp3.1\OrderedList.runtimeconfig.dev.json
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\bin\Debug\netcoreapp3.1\OrderedList.dll
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\bin\Debug\netcoreapp3.1\OrderedList.pdb
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\obj\Debug\netcoreapp3.1\OrderedList.csprojAssemblyReference.cache
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\obj\Debug\netcoreapp3.1\OrderedList.AssemblyInfoInputs.cache
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\obj\Debug\netcoreapp3.1\OrderedList.AssemblyInfo.cs
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\obj\Debug\netcoreapp3.1\OrderedList.csproj.CoreCompileInputs.cache
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\obj\Debug\netcoreapp3.1\OrderedList.dll
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\obj\Debug\netcoreapp3.1\OrderedList.pdb
+C:\Users\Calum\Documents\College Stuff\Data Structures\OrderedList\OrderedList\obj\Debug\netcoreapp3.1\OrderedList.genruntimeconfig.cache
